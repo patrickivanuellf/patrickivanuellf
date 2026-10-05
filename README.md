@@ -10,7 +10,7 @@
 
 <!-- GIF bertema hacker: simpan file GIF-mu di assets/hacker.gif -->
 <p align="center">
-  <img src="./assets/hacker.gif" width="500" />
+     <img src="./swan-hack-dab.webp" width="500" />
 </p>
 
 ```bash
