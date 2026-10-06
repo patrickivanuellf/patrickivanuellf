@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <b>Founder of PT Toya Buana Mandiri</b> · Ex Co-founder, zappinx.ai · Informatics Engineering student
+  <b>Founder of PT Toya Buana Mandiri</b> · Ex Co-founder, zappinx.ai & KerjaCerdas.id · Informatics Engineering student
 </p>
 
 <p align="center">
