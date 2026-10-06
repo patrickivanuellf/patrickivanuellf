@@ -111,35 +111,31 @@ flowchart LR
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00ff41,100:0d1117&height=2" width="100%" />
 
-<!-- ============ PROJECTS (kartu 2x2) ============ -->
+<!-- ============ PROJECTS (kartu) ============ -->
 ## 📂 `$ ls projects/`
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🏞️ <a href="LINK">Desa Wisata Sepakung</a></h3>
+      <h3>🏞️ <a href="https://github.com/patrickivanuellf/portalsepakung">Desa Wisata Sepakung</a></h3>
       Tourism information website with an online booking form.<br/><br/>
       <img src="https://img.shields.io/badge/Astro_JS-0d1117?style=flat-square&logo=astro&logoColor=00ff41" />
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="LINK">Telegram Shop Bot</a></h3>
-      Product catalog, order handling, and admin notifications.<br/><br/>
-      <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff41" />
+      <h3>🌿 <a href="https://github.com/patrickivanuellf/EcoTwin-AI">EcoTwin AI</a></h3>
+      Carbon-aware workload orchestration, 3D digital twin, and environmental compliance metrics (PUE, WUE, CUE) for AI data centers in Indonesia. <i>Prototype.</i><br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00ff41" />
+      <img src="https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=00ff41" />
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <h3>📋 <a href="LINK">Daily Audit System</a></h3>
       Staff web app for daily price and vendor audits, backed by Google Sheets.<br/><br/>
       <img src="https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=00ff41" />
       <img src="https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=00ff41" />
       <img src="https://img.shields.io/badge/JS-0d1117?style=flat-square&logo=javascript&logoColor=00ff41" />
       <img src="https://img.shields.io/badge/Apps_Script-0d1117?style=flat-square&logo=google&logoColor=00ff41" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚪 <a href="LINK">AdGate SDK</a></h3>
-      Pre-roll ad module with multi-partner fallback for game sites.<br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=00ff41" />
     </td>
   </tr>
 </table>
