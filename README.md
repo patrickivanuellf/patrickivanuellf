@@ -39,7 +39,8 @@ Uptime ........ Running live websites since 2023
 Informatics Engineering student, founder of **PT Toya Buana Mandiri** (a technology company
 in advertising), and former co-founder of **zappinx.ai**, where I pitched to investors and
 managed projects. I run live websites and ad monetization, build web tools, bots, and
-automation, and I'm most at home on Linux servers.
+automation, and I'm most at home on Linux servers. Lately I've been building open-source
+security tooling focused on protecting everyday users in Indonesia.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,100:000000&height=2" width="100%" />
 
@@ -50,10 +51,12 @@ flowchart LR
     A["2023<br/>Started own business<br/>Live websites & servers"] --> B["2024<br/>Began Informatics Engineering<br/>at UPGRIS"]
     B --> C["2025 - 2026<br/>Co-founder, zappinx.ai<br/>Investors & projects"]
     A --> D["PT Toya Buana Mandiri<br/>Founder & Director<br/>Ad-tech company"]
+    C --> E["2026<br/>Building open-source<br/>security tooling"]
     style A fill:#0d1117,stroke:#00ff41,color:#00ff41
     style B fill:#0d1117,stroke:#00ff41,color:#00ff41
     style C fill:#0d1117,stroke:#00ff41,color:#00ff41
     style D fill:#0d1117,stroke:#00ff41,color:#00ff41
+    style E fill:#0d1117,stroke:#00ff41,color:#00ff41
 ```
 
 <!-- ============ SKILLS ============ -->
@@ -95,13 +98,27 @@ flowchart LR
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff41&height=2" width="100%" />
 
 <!-- ============ PROJECTS ============ -->
-## 📂 `$ ls projects/`
+## 📂 `$ ls -la projects/`
+
+### 🛡️ Security Tooling
+
 | 📁 Project | 📝 What it is | ⚙️ Stack |
 |---|---|---|
-| [**Desa Wisata Sepakung**](LINK) | Tourism information website with an online booking form | `Astro JS` |
-| [**Telegram Shop Bot**](LINK) | Product catalog, order handling, and admin notifications | `Python` |
+| [**ScamLens ID**](https://github.com/patrickivanuellf/scamlens-id) | Detects Indonesian phishing/scam messages and links (fake courier APKs, prize scams, phishing URLs) with an explainable risk score | `Python` |
+| [**credential-sentinel**](https://github.com/patrickivanuellf/credential-sentinel) | Scans local or GitHub repos for leaked credentials (API keys, tokens, private keys); redacts every match before it's shown | `TypeScript` `Bash` |
+| [**SSH Log Analyzer**](LINK) | Parses auth logs to detect SSH brute-force patterns | `TypeScript` |
+| [**Linux Hardening Audit**](LINK) | CLI that audits a Linux server against hardening best practices | `Python` |
+| [**Website Security Checker**](LINK) | CLI that checks a site's headers, TLS config, and common misconfigurations | `Python` |
+
+### 🌐 Web, Bots & Automation
+
+| 📁 Project | 📝 What it is | ⚙️ Stack |
+|---|---|---|
+| [**Desa Wisata Sepakung**](https://github.com/patrickivanuellf/portalsepakung) | Tourism information website with an online booking form | `Astro JS` |
+| [**EcoTwin AI**](https://github.com/patrickivanuellf/EcoTwin-AI) | Carbon-aware workload orchestration and a browser-based 3D digital twin for AI data centers | `JavaScript` |
 | [**Daily Audit System**](LINK) | Staff web app for daily price and vendor audits, backed by Google Sheets | `HTML` `CSS` `JS` `Apps Script` |
-| [**AdGate SDK**](LINK) | Pre-roll ad module with multi-partner fallback for game sites | `JavaScript` |
+
+> 🔧 Replace any `LINK` above with the repo URL once it's pushed.
 
 <!-- ============ EXPERIENCE ============ -->
 ## 🏢 `$ cat experience.log`
