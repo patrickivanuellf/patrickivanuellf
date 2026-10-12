@@ -3,6 +3,13 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:00ff41&height=230&section=header&text=Patrick%20Ivanuell&fontColor=00ff41&fontSize=54&animation=fadeIn&fontAlignY=38&desc=Founder%20%7C%20Linux%20%7C%20Servers%20%7C%20Ad-Tech&descAlignY=60&descSize=18" width="100%" />
 </p>
 
+<!-- ============ TYPING ANIMATION ============ -->
+<p align="center">
+  <a href="https://github.com/patrickivanuellf">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=720&height=50&lines=%24+whoami+%E2%86%92+Patrick+Ivanuell+Firstyanto;%24+role+%E2%86%92+Founder+%26+Director+%40+PT+Toya+Buana+Mandiri;%24+focus+%E2%86%92+Linux+%7C+Servers+%7C+Ad-Tech;%24+building+%E2%86%92+open-source+security+tooling+for+Indonesia" alt="Typing SVG" />
+  </a>
+</p>
+
 <p align="center">
   <b>Founder of PT Toya Buana Mandiri</b> · Ex Co-founder, zappinx.ai & KerjaCerdas.id · Informatics Engineering student
 </p>
@@ -15,6 +22,14 @@
   <a href="https://www.linkedin.com/in/patrick-ivanuell-bb0208302"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41" /></a>
   <a href="mailto:pivanuell@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41" /></a>
   <img src="https://komarev.com/ghpvc/?username=patrickivanuellf&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Linux-0d1117?style=flat-square&logo=linux&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/Shell-Bash-0d1117?style=flat-square&logo=gnubash&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-0d1117?style=flat-square&logo=hackthebox&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/Status-Building-0d1117?style=flat-square&logoColor=00ff41&color=0d1117&labelColor=00ff41" />
+  <img src="https://img.shields.io/badge/Location-Semarang%2C_ID-0d1117?style=flat-square&logoColor=00ff41" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff41&height=2" width="100%" />
@@ -43,21 +58,6 @@ automation, and I'm most at home on Linux servers. Lately I've been building ope
 security tooling focused on protecting everyday users in Indonesia.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,100:000000&height=2" width="100%" />
-
-<!-- ============ JOURNEY ============ -->
-## 🧭 `$ git log --oneline`
-```mermaid
-flowchart LR
-    A["2023<br/>Started own business<br/>Live websites & servers"] --> B["2024<br/>Began Informatics Engineering<br/>at UPGRIS"]
-    B --> C["2025 - 2026<br/>Co-founder, zappinx.ai<br/>Investors & projects"]
-    A --> D["PT Toya Buana Mandiri<br/>Founder & Director<br/>Ad-tech company"]
-    C --> E["2026<br/>Building open-source<br/>security tooling"]
-    style A fill:#0d1117,stroke:#00ff41,color:#00ff41
-    style B fill:#0d1117,stroke:#00ff41,color:#00ff41
-    style C fill:#0d1117,stroke:#00ff41,color:#00ff41
-    style D fill:#0d1117,stroke:#00ff41,color:#00ff41
-    style E fill:#0d1117,stroke:#00ff41,color:#00ff41
-```
 
 <!-- ============ SKILLS ============ -->
 ## 🛠️ `$ ./load_tools.sh`
