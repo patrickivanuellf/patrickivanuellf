@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <b>Founder of PT Toya Buana Mandiri</b> · Ex Co-founder, zappinx.ai & KerjaCerdas.id · Informatics Engineering student
+  <b>Star</b> · Ex Co-founder, zappinx.ai & KerjaCerdas.id · Informatics Engineering student
 </p>
 
 <p align="center">
@@ -40,13 +40,11 @@
 patrick@toya-buana ~ $ neofetch
 
 Name .......... Patrick Ivanuell Firstyanto
-Role .......... Founder & Director @ PT Toya Buana Mandiri
 Previously .... Co-founder @ zappinx.ai (2025 - 2026)
 Industry ...... Advertising technology
 Education ..... Informatics Engineering, UPGRIS Semarang
 Based in ...... Semarang, Indonesia
 Shell ......... Bash
-Languages ..... Indonesian (native), English (conversational)
 Uptime ........ Running live websites since 2023
 ```
 
@@ -109,6 +107,7 @@ security tooling focused on protecting everyday users in Indonesia.
 | [**SSH Log Analyzer**](LINK) | Parses auth logs to detect SSH brute-force patterns | `TypeScript` |
 | [**Linux Hardening Audit**](LINK) | CLI that audits a Linux server against hardening best practices | `Python` |
 | [**Website Security Checker**](LINK) | CLI that checks a site's headers, TLS config, and common misconfigurations | `Python` |
+| [**VoidSpider**](https://github.com/patrickivanuellf/VoidSpider/tree/main) | Passive security audit scanner for websites and local files, with a realtime graph dashboard, secret and malware detection (rules + ML), and optional OWASP ZAP integration. | `Python` |
 
 ### 🌐 Web, Bots & Automation
 
