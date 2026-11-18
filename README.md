@@ -6,7 +6,7 @@
 <!-- ============ TYPING ANIMATION ============ -->
 <p align="center">
   <a href="https://github.com/patrickivanuellf">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=720&height=50&lines=%24+whoami+%E2%86%92+Patrick+Ivanuell+Firstyanto;%24+role+%E2%86%92+Founder+%26+Director+%40+PT+Toya+Buana+Mandiri;%24+focus+%E2%86%92+Linux+%7C+Servers+%7C+Ad-Tech;%24+building+%E2%86%92+open-source+security+tooling+for+Indonesia" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=720&height=50&lines=%24+whoami+%E2%86%92+Patrick+Ivanuell+Firstyanto;%24+role+%E2%86%92+Founder+%26+Director+%40+PT+Toya+Buana+Mandiri;%24+also+%E2%86%92+PT+Linuxhackingid+Cyber+Security;%24+focus+%E2%86%92+Linux+%7C+Servers+%7C+Ad-Tech;%24+building+%E2%86%92+open-source+security+tooling+for+Indonesia" alt="Typing SVG" />
   </a>
 </p>
 
@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/OS-Linux-0d1117?style=flat-square&logo=linux&logoColor=00ff41" />
   <img src="https://img.shields.io/badge/Shell-Bash-0d1117?style=flat-square&logo=gnubash&logoColor=00ff41" />
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-0d1117?style=flat-square&logo=hackthebox&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/AI_Partner-Claude-0d1117?style=flat-square&logo=anthropic&logoColor=00ff41" />
   <img src="https://img.shields.io/badge/Status-Building-0d1117?style=flat-square&logoColor=00ff41&color=0d1117&labelColor=00ff41" />
   <img src="https://img.shields.io/badge/Location-Semarang%2C_ID-0d1117?style=flat-square&logoColor=00ff41" />
 </p>
@@ -41,19 +42,22 @@ patrick@toya-buana ~ $ neofetch
 
 Name .......... Patrick Ivanuell Firstyanto
 Previously .... Co-founder @ zappinx.ai (2025 - 2026)
-Industry ...... Advertising technology
+Also at ....... PT Linuxhackingid Cyber Security
+Industry ...... Advertising technology & cybersecurity
 Education ..... Informatics Engineering, UPGRIS Semarang
 Based in ...... Semarang, Indonesia
 Shell ......... Bash
+AI Partner .... Claude (Anthropic)
 Uptime ........ Running live websites since 2023
 ```
 
 ## 👤 `$ cat about.txt`
 Informatics Engineering student, founder of **PT Toya Buana Mandiri** (a technology company
 in advertising), and former co-founder of **zappinx.ai**, where I pitched to investors and
-managed projects. I run live websites and ad monetization, build web tools, bots, and
-automation, and I'm most at home on Linux servers. Lately I've been building open-source
-security tooling focused on protecting everyday users in Indonesia.
+managed projects. I also work at **PT Linuxhackingid Cyber Security**. I run live websites
+and ad monetization, build web tools, bots, and automation, and I'm most at home on Linux
+servers. Lately I've been building open-source security tooling focused on protecting
+everyday users in Indonesia.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff41,100:000000&height=2" width="100%" />
 
@@ -126,6 +130,9 @@ security tooling focused on protecting everyday users in Indonesia.
                    Technology company in advertising
                    -> live websites, ad monetization, web tools and automation
 
+[now]              PT Linuxhackingid Cyber Security
+                   -> Cybersecurity company
+
 [2025 - 2026]      Co-founder, zappinx.ai
                    -> Pitched to investors and led investor meetings
                    -> Planned and managed projects
@@ -160,4 +167,8 @@ patrick@toya-buana ~ $ exit
 ```
 
 <!-- ============ FOOTER ============ -->
+<p align="center">
+  <sub>🤖 Built with help from <a href="https://claude.ai">Claude</a> by Anthropic</sub>
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:000000&height=120&section=footer" width="100%" />
